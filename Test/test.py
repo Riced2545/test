@@ -1,3 +1,5 @@
 print("welcome to python")
 print("SAO")
 print("ALO")
+print("GGO")
+print("ACCEL")
